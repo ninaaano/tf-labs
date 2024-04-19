@@ -50,7 +50,7 @@ ASG-NAME             = "Two-Tier-ASG"
 
 
 # CLOUDFRONT
-DOMAIN-NAME = "example.com"
+DOMAIN-NAME = "ninaaano.shop"
 CDN-NAME    = "Two-Tier-CDN"
 
 # WAF
